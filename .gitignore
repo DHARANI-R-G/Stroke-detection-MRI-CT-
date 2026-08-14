@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Datasets
+data/
+dataset/
+datasets/
+*.jpg
+*.jpeg
+*.png
+*.dcm
+
+# Model files
+*.pth
+*.pt
+*.pkl
+*.h5
+*.hdf5
+
+# Generated results
+results/
+XAI/
+outputs/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
